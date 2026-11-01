@@ -20,7 +20,8 @@ dist-ssr/
 .env.*
 !.env.example
 
-# Editor & System Files
+# Bob & IDE Files
+.bob/
 .vscode/
 .idea/
 .DS_Store
